@@ -1,9 +1,15 @@
 # GARCIA-DE-LA-FUENTE-RAUL
 
-Codeigniter php framework http://www.codeigniter.com/
+angular y consumo de api xml tiempo.com
 
-uso de codeigniter junto con base de datos"my sql" para el desarrollo de una aplicacion de 
-control de servicios usada por multiples usuarios(los usuarios estaran divididos en grupos dentro de la base de datos, teniendo unos mas privilegios que otros).
 
+
+desarrollo de una palicacion del tiempo con las siguientes tecnologias:
+
+1º vista y controlador : angular
+2º backend : php  para gestionar xml y consultas ajax y mysql
+3º api  tiempo.com para recuperar datos de las localidades españolas
+4º estado : gestionado por cookies con javascript
+5º busqueda semantica : https://leaverou.github.io/awesomplete/
 
 
