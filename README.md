@@ -16,4 +16,6 @@ desarrollo de una palicacion del tiempo con las siguientes tecnologias:
 
 5º busqueda semantica : https://leaverou.github.io/awesomplete/
 
+https://docs.google.com/presentation/d/1xzEpPQqgqfZYpREnMyDt3Bj51BJCklctbAeezecx_ss/edit#slide=id.g1a15f67194_0_370
+
 
